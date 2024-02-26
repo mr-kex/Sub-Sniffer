@@ -1,0 +1,7 @@
+{
+    "shodan_api_key": "Your Key here",
+    "censys_api_id": "Your Id here",
+    "censys_api_secret": "Your Key here",
+    "virustotal_api_key": "Your Key here",
+    "alien_api_key": "Your Key here"
+}
