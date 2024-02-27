@@ -1,8 +1,6 @@
 requests
 dnspython
 bs4
-concurrent.futures
-json
 google
 urllib3
 colorama
